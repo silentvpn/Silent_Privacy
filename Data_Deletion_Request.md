@@ -1,6 +1,6 @@
 ✅ Data Deletion Request – Silent VPN
 
-Effective Date: [Put today’s date]
+Effective Date: [12 Jan 2026]
 
 Silent VPN respects your privacy and supports your right to request the deletion of your data.
 
