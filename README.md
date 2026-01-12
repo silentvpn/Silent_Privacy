@@ -1,6 +1,6 @@
 ✅ Silent VPN – Privacy Policy
 
-Effective Date: [Put today’s date]
+Effective Date: [12 Jan 2026]
 
 Silent VPN respects your privacy and is committed to protecting your personal data. This Privacy Policy explains what information we collect, how we use it, and how we protect your data when you use our application.
 
