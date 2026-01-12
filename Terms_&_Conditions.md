@@ -1,6 +1,6 @@
 ✅ Terms & Conditions – Silent VPN
 
-Effective Date: [Put today’s date]
+Effective Date: [12 Jan 2026]
 
 By downloading, installing, or using Silent VPN, you agree to be bound by these Terms & Conditions.
 If you do not agree with any part of these terms, please do not use the application.
